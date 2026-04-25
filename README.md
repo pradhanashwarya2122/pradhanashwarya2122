@@ -9,9 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20GenAI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Development%20Intern-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20Internships-orange?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Status-Active%20Builder-success?style=for-the-badge" />
 </p>
 
 ---
@@ -26,7 +24,7 @@
         <li>🤖 Focused on <b>Machine Learning, Deep Learning & Generative AI</b></li>
         <li>🧪 Building <b>end-to-end AI systems</b> with real-world applications</li>
         <li>🚀 Currently working on <b>RAG-based and LLM-powered systems</b></li>
-        <li>💡 Goal: Secure a <b>high-impact AI/ML internship</b> and build scalable AI products</li>
+        <li>💡 Passionate about building <b>scalable AI products</b></li>
       </ul>
     </td>
     <td align="center">
@@ -89,19 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 ### 🔥 Coming Soon
@@ -122,8 +107,8 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwarya%20Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
