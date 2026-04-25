@@ -15,7 +15,7 @@
 <p>
   <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-00F7FF?style=flat-square&labelColor=0d0d14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Manipal_University-Jaipur_%C2%B7_2023--2027-a78bfa?style=flat-square&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Manipal_University_Jaipur-2023--2027-a78bfa?style=flat-square&labelColor=0d0d14" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-GenAI_%26_Agentic_Systems-f472b6?style=flat-square&labelColor=0d0d14" />
   &nbsp;
@@ -34,16 +34,15 @@
 
 > *Building AI systems that solve real problems — not just notebooks that sit on a hard drive.*
 
-I'm an AI/ML engineer pursuing my B.Tech in Computer Science (AI & ML) at Manipal University Jaipur. My work sits at the boundary of machine learning research and production-grade software engineering — with a focus on **Generative AI**, **autonomous agents**, and **retrieval-augmented systems**.
+I'm an AI/ML engineer pursuing my **B.Tech in Computer Science (AI & ML)** at **Manipal University Jaipur**. My work sits at the boundary of machine learning research and production-grade software engineering — with a focus on **Generative AI**, **autonomous agents**, and **retrieval-augmented systems**.
 
 ```python
 ashwarya = {
-    "degree":      "B.Tech  ·  Computer Science & Engineering (AI & ML)",
-    "university":  "Manipal University Jaipur  ·  2023 – 2027",
-    "building":    ["LLMs", "RAG Pipelines", "AI Agents", "Generative AI"],
-    "research":    "Federated Learning  ·  Network Intrusion Detection",
-    "interests":   ["NLP", "Multi-Agent Systems", "MLOps", "Computer Vision"],
-    "philosophy":  "Ship systems that reason, remember, and act — not just predict.",
+    "education":   "B.Tech CSE (AI & ML) · Manipal University Jaipur · 2023–2027",
+    "focus":       ["LLMs", "RAG Systems", "Deep Learning", "Generative AI"],
+    "currently":   "Building end-to-end intelligent systems",
+    "interests":   ["NLP", "Computer Vision", "MLOps", "Agentic AI"],
+    "fun_fact":    "I debug models the way detectives solve crimes — follow the loss curve.",
 }
 ```
 
@@ -125,8 +124,8 @@ Systems that don't just answer — they **plan, use tools, and act**.
 **Authors:** Kasmya Bhatia, Ashwarya Pradhan, Vinit Kumar Gunjan, Umashanker Sahu, Dr. Gautam Kumar
 **Dept. of AI & ML, Manipal University Jaipur**
 
-- Designed a **federated learning architecture** for distributed, privacy-preserving network intrusion detection — models train locally across decentralised nodes with zero raw data sharing, ensuring scalability and data compliance
-- Built an **automated YARA rule voting consensus mechanism** to dynamically generate and validate threat signatures across federated nodes, reducing false positives and improving adaptability to novel attack vectors
+- Designed a **federated learning architecture** for distributed, privacy-preserving network intrusion detection — models train locally across decentralised nodes with no raw data sharing, ensuring scalability and data compliance.
+- Built an **automated YARA rule voting consensus mechanism** to dynamically generate and validate threat signatures across federated nodes, reducing false positives and improving adaptability to novel attack vectors.
 
 **Keywords:** `Federated Learning` `Network Security` `YARA Rules` `Intrusion Detection` `Privacy-Preserving AI`
 
@@ -198,22 +197,6 @@ Systems that don't just answer — they **plan, use tools, and act**.
 
 > ⚡ **Actively building** — projects dropping soon. Watch this space.
 
-<!-- ================================================================
-     HOW TO ADD A PROJECT — COPY THIS TEMPLATE AND FILL IT IN:
-
-### 🔷 [Project Title](https://github.com/YOUR_USERNAME/repo)
-> _One sharp sentence: what it does and why it matters._
-
-**Highlights:**
-- What makes it technically interesting
-- Scale / performance metric if applicable
-- Anything novel about the architecture
-
-**Stack:** `Python` `LangChain` `FAISS` `Streamlit`
-
----
-================================================================ -->
-
 <details>
 <summary><b>📌 Projects in the pipeline &nbsp;—&nbsp; click to expand</b></summary>
 
@@ -231,23 +214,7 @@ Systems that don't just answer — they **plan, use tools, and act**.
 
 ---
 
-## `07` &nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d0d14&border_color=1a1a2e&title_color=00f7ff&icon_color=a78bfa&text_color=e8e6f0&hide_border=false&rank_icon=github&show=reviews,discussions_started" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d0d14&border_color=1a1a2e&title_color=00f7ff&text_color=e8e6f0&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d0d14&border=1a1a2e&stroke=00f7ff&ring=a78bfa&fire=f472b6&currStreakNum=e8e6f0&sideNums=e8e6f0&currStreakLabel=00f7ff&sideLabels=888&dates=555" />
-
-</div>
-
----
-
-## `08` &nbsp; Let's Connect
+## `07` &nbsp; Let's Connect
 
 <div align="center">
 
