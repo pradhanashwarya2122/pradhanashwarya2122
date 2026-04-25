@@ -1,32 +1,32 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00f7ff&height=120&section=header&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a1628,100:00f7ff&height=130&section=header&fontSize=0" />
 
 <br/>
 
-<!-- NAME -->
 <a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=48&duration=3000&pause=800&color=F0EEFF&center=true&vCenter=true&width=700&height=80&lines=Ashwarya+Pradhan" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=52&duration=3000&pause=1200&color=F0EEFF&center=true&vCenter=true&width=720&height=90&lines=Ashwarya+Pradhan" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=AI+%2F+ML+Engineer+%C2%B7+Generative+AI+Developer;RAG+%C2%B7+LLMs+%C2%B7+Deep+Learning+%C2%B7+Real-World+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=640&height=36&lines=AI+%2F+ML+Engineer+%C2%B7+Generative+AI+Developer;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Real-World+Systems;Building+the+Intelligent+Layer+of+Software" />
 
 <br/>
 
-<!-- BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)-Manipal_University_Jaipur-00F7FF?style=flat-square&labelColor=0a0a0f&color=00F7FF" />
+  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)-Manipal_University_Jaipur-00F7FF?style=flat-square&labelColor=0d0d14&color=00F7FF" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Actively_Building-brightgreen?style=flat-square&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Focus-GenAI_%26_Agentic_Systems-a78bfa?style=flat-square&labelColor=0d0d14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Batch-2023--2027-blueviolet?style=flat-square&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Status-Actively_Building-22c55e?style=flat-square&labelColor=0d0d14" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Batch-2023--2027-f472b6?style=flat-square&labelColor=0d0d14" />
 </p>
 
-<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00f7ff&style=flat-square&label=Profile+Views" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -34,36 +34,93 @@
 
 > *Building AI systems that solve real problems — not just notebooks that sit on a hard drive.*
 
-I'm an AI/ML engineer in the making, currently pursuing my B.Tech in Computer Science with a specialisation in Artificial Intelligence & Machine Learning at Manipal University Jaipur. My work lives at the intersection of machine learning research and practical software engineering.
+I'm an AI/ML engineer, currently pursuing my B.Tech in CSE (AI & ML) at Manipal University Jaipur. My work sits at the boundary of machine learning research and production-grade software engineering — with a particular focus on **Generative AI**, **autonomous agents**, and **retrieval-augmented systems**.
 
 ```python
 ashwarya = {
-    "education":   "B.Tech CSE (AI & ML) @ MUJ · 2023–2027",
-    "focus":       ["LLMs", "RAG Systems", "Deep Learning", "Generative AI"],
-    "currently":   "Building end-to-end intelligent systems",
-    "interests":   ["NLP", "Computer Vision", "MLOps", "Agentic AI"],
-    "fun_fact":    "I debug models the way detectives solve crimes — follow the loss curve.",
+    "education":      "B.Tech CSE (AI & ML) @ MUJ  ·  2023–2027",
+    "specialisation": ["Generative AI", "Agentic Systems", "LLMs", "RAG"],
+    "currently":      "Engineering intelligent, autonomous AI pipelines",
+    "interests":      ["NLP", "Multi-Agent Frameworks", "MLOps", "Computer Vision"],
+    "philosophy":     "Ship systems that reason, remember, and act — not just predict.",
 }
 ```
 
 ---
 
-## `02` &nbsp; Experience
+## `02` &nbsp; Generative AI & Agents
+
+> *The next layer of software is autonomous. I build for that layer.*
 
 <table>
 <tr>
-<td width="12" style="padding: 0;">
-<img src="https://img.shields.io/badge/|-%20-00F7FF?style=flat-square&labelColor=00F7FF" height="100%" />
+<td width="50%" valign="top">
+
+### 🧠 &nbsp; Generative AI
+
+Working across the full GenAI stack — from **prompt engineering** and **fine-tuning** to building **production RAG pipelines**.
+
+- **LLM Integration** — OpenAI, Anthropic, Mistral, Llama
+- **Retrieval-Augmented Generation (RAG)** — semantic search, vector stores, hybrid retrieval
+- **Fine-Tuning** — PEFT, LoRA, QLoRA for domain adaptation
+- **Prompt Engineering** — chain-of-thought, few-shot, structured output design
+- **Evaluation** — RAGAS, faithfulness, answer relevance metrics
+
+**Tools:** `LangChain` `LlamaIndex` `HuggingFace` `FAISS` `ChromaDB`
+
 </td>
+<td width="4%"></td>
+<td width="46%" valign="top">
+
+### 🤖 &nbsp; AI Agents
+
+Interested in systems that don't just answer — they **plan, use tools, and act**.
+
+- **Agentic Architectures** — ReAct, Plan-and-Execute, Reflexion loops
+- **Tool Use & Function Calling** — web search, code execution, API orchestration
+- **Memory Systems** — episodic, semantic, and working memory for agents
+- **Multi-Agent Frameworks** — role-based collaboration, task delegation
+- **Autonomous Pipelines** — self-correcting, goal-driven workflows
+
+**Frameworks:** `LangGraph` `AutoGen` `CrewAI` `Semantic Kernel`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+ USER INTENT
+      │
+      ▼
+┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
+│   ORCHESTRATOR  │────▶│   AGENT / CHAIN  │────▶│   TOOL CALLS    │
+│  (Router/Planner│     │  (Reason + Act)  │     │  Search · Code  │
+│   CoT / ReAct)  │◀────│                  │◀────│  APIs · Memory  │
+└─────────────────┘     └──────────────────┘     └─────────────────┘
+         │                       │
+         ▼                       ▼
+   FINAL RESPONSE          VECTOR STORE
+   (grounded, cited)       (RAG retrieval)
+```
+
+---
+
+## `03` &nbsp; Experience
+
+<table>
+<tr>
 <td>
 
-### 💻 Development Intern &nbsp;·&nbsp; **Metabrix Lab**
+### 💻 &nbsp; Development Intern &nbsp;·&nbsp; **Metabrix Lab**
+
 `Jun 2025 – Sep 2025`
 
-- Worked on **HRN (Hierarchical Representation Network)** for 3D face reconstruction from monocular images
-- Debugged and optimised AI research codebases, improving system reliability and inference throughput
-- Contributed to repository maintenance, documentation, and long-term codebase quality
-- Gained hands-on experience with advanced computer vision architectures in a research environment
+- Worked on **HRN (Hierarchical Representation Network)** for high-fidelity 3D face reconstruction from monocular images
+- Debugged and optimised AI research codebases, improving inference throughput and system reliability
+- Contributed to repository maintenance, technical documentation, and codebase quality standards
+- Gained hands-on experience with advanced computer vision research architectures
 
 </td>
 </tr>
@@ -71,7 +128,7 @@ ashwarya = {
 
 ---
 
-## `03` &nbsp; Tech Stack
+## `04` &nbsp; Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -79,85 +136,91 @@ ashwarya = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### AI / ML
+### Generative AI & Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00f7ff?style=flat-square&labelColor=0d0d14&color=00f7ff)
+![LoRA](https://img.shields.io/badge/LoRA_%2F_PEFT-a78bfa?style=flat-square&labelColor=0d0d14)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-f472b6?style=flat-square&labelColor=0d0d14)
+
+### ML / DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs_%26_RAG-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Tools & Infra
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-## `04` &nbsp; Projects
+## `05` &nbsp; Projects
 
-> **⚡ Actively building — projects dropping soon.**
+> ⚡ **Actively building** — projects dropping soon. Watch this space.
 
-<!-- ============================================================
-     ADD YOUR PROJECTS BELOW. COPY AND PASTE THE TEMPLATE.
-     ============================================================ -->
+<!-- ================================================================
+     HOW TO ADD A PROJECT — COPY THIS TEMPLATE AND FILL IT IN:
 
-<!--
-### 🔷 [Project Name](https://github.com/link-to-repo)
-> Short one-line description of what it does and why it matters.
+### 🔷 [Project Title](https://github.com/YOUR_USERNAME/repo)
+> _One sharp sentence: what it does and why it matters._
 
-**What it does:** Explain the core functionality in 1-2 sentences.
+Built a [type of system] that [does what] using [key approach].
 
-**Key highlights:**
-- Highlight 1
-- Highlight 2
-- Highlight 3
+**Highlights:**
+- What makes it technically interesting
+- Scale / performance metric if applicable
+- Anything novel about the architecture
 
 **Stack:** `Python` `LangChain` `FAISS` `Streamlit`
 
 ---
--->
+================================================================ -->
 
 <details>
-<summary><b>📌 Projects in the pipeline (click to expand)</b></summary>
+<summary><b>📌 Projects in the pipeline &nbsp;—&nbsp; click to expand</b></summary>
 
 <br/>
 
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 🔜 | **RAG Document Q&A System** | Retrieval-augmented generation pipeline for intelligent document querying | `LangChain` `FAISS` `OpenAI` |
-| 🔜 | **Fine-tuned Domain LLM** | Parameter-efficient fine-tuning with LoRA for domain-specific language understanding | `HuggingFace` `LoRA` `PEFT` |
-| 🔜 | **GenAI Image Application** | Text-to-image generation app with custom Streamlit UI built on diffusion models | `Diffusers` `SDXL` `Streamlit` |
-| 🔜 | **End-to-End ML Pipeline** | Production-grade ML system from raw data to deployed REST API with monitoring | `scikit-learn` `FastAPI` `AWS` |
+| Status | Project | What It Is | Stack |
+|--------|---------|------------|-------|
+| 🔜 | **RAG Document Q&A System** | Retrieval-augmented pipeline for grounded, cited document querying | `LangChain` `FAISS` `OpenAI` `Streamlit` |
+| 🔜 | **Agentic Research Assistant** | Multi-step agent that plans, searches, and synthesises answers autonomously | `LangGraph` `CrewAI` `Tool Calling` |
+| 🔜 | **Fine-tuned Domain LLM** | LoRA-based fine-tuning pipeline for domain-specific language understanding | `HuggingFace` `LoRA` `PEFT` `QLoRA` |
+| 🔜 | **GenAI Image Application** | Text-to-image generation app with diffusion models and custom Streamlit UI | `Diffusers` `SDXL` `Streamlit` |
+| 🔜 | **End-to-End ML Pipeline** | Production ML system: raw data → trained model → deployed REST API | `scikit-learn` `FastAPI` `AWS` |
 
 </details>
 
 ---
 
-## `05` &nbsp; GitHub Stats
+## `06` &nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&bg_color=0a0a0f&border_color=1a1a2e&title_color=00f7ff&icon_color=00f7ff&text_color=e8e6f0&hide_border=false&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d0d14&border_color=1a1a2e&title_color=00f7ff&icon_color=a78bfa&text_color=e8e6f0&hide_border=false&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&bg_color=0a0a0f&border_color=1a1a2e&title_color=00f7ff&text_color=e8e6f0&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d0d14&border_color=1a1a2e&title_color=00f7ff&text_color=e8e6f0&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=0a0a0f&border=1a1a2e&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakNum=e8e6f0&sideNums=e8e6f0&currStreakLabel=00f7ff&sideLabels=888&dates=666" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d0d14&border=1a1a2e&stroke=00f7ff&ring=a78bfa&fire=f472b6&currStreakNum=e8e6f0&sideNums=e8e6f0&currStreakLabel=00f7ff&sideLabels=888&dates=555" />
 
 </div>
 
 ---
 
-## `06` &nbsp; Let's Connect
+## `07` &nbsp; Let's Connect
 
 <div align="center">
 
@@ -175,14 +238,10 @@ ashwarya = {
 
 <br/><br/>
 
-*Open to collaborations on AI/ML projects, research discussions, and interesting problems.*
+*Open to research collaborations, project discussions, and interesting problems in AI.*
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0a0a0f&height=100&section=footer&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a78bfa,100:0d0d14&height=110&section=footer&fontSize=0" />
 
 </div>
