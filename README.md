@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a1628,100:00f7ff&height=130&section=header&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a1628,100:a78bfa&height=130&section=header&fontSize=0" />
 
 <br/>
 
@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=52&duration=3000&pause=1200&color=F0EEFF&center=true&vCenter=true&width=720&height=90&lines=Ashwarya+Pradhan" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=640&height=36&lines=AI+%2F+ML+Engineer+%C2%B7+Generative+AI+Developer;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Real-World+Systems;Building+the+Intelligent+Layer+of+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2800&pause=700&color=a78bfa&center=true&vCenter=true&width=640&height=36&lines=AI+%2F+ML+Engineer+%C2%B7+Generative+AI+Developer;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Real-World+Systems;Building+the+Intelligent+Layer+of+Software" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-00F7FF?style=flat-square&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-a78bfa?style=flat-square&labelColor=0d0d14" />
   &nbsp;
   <img src="https://img.shields.io/badge/Manipal_University_Jaipur-2023--2027-a78bfa?style=flat-square&labelColor=0d0d14" />
   &nbsp;
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Status-Actively_Building-22c55e?style=flat-square&labelColor=0d0d14" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00f7ff&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -37,77 +37,19 @@
 I'm an AI/ML engineer pursuing my **B.Tech in Computer Science (AI & ML)** at **Manipal University Jaipur**. My work sits at the boundary of machine learning research and production-grade software engineering — with a focus on **Generative AI**, **autonomous agents**, and **retrieval-augmented systems**.
 
 ```python
-ashwarya = {
-    "education":   "B.Tech CSE (AI & ML) · Manipal University Jaipur · 2023–2027",
-    "focus":       ["LLMs", "RAG Systems", "Deep Learning", "Generative AI"],
-    "currently":   "Building end-to-end intelligent systems",
-    "interests":   ["NLP", "Computer Vision", "MLOps", "Agentic AI"],
-    "fun_fact":    "I debug models the way detectives solve crimes — follow the loss curve.",
-}
+class Ashwarya:
+    degree      = "B.Tech CSE (AI & ML)"
+    university  = "Manipal University Jaipur  ·  2023–2027"
+    focus       = ["LLMs", "RAG Systems", "Deep Learning", "Generative AI"]
+    building    = "End-to-end intelligent systems that reason, remember, and act"
+    interests   = ["NLP", "Computer Vision", "MLOps", "Agentic AI"]
+    philosophy  = "Ship systems that reason, remember, and act — not just predict."
+    fun_fact    = "I debug models the way detectives solve crimes — follow the loss curve."
 ```
 
 ---
 
-## `02` &nbsp; Generative AI & Agents
-
-> *The next layer of software is autonomous. I build for that layer.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 &nbsp; Generative AI
-
-Working across the full GenAI stack — from **prompt engineering** and **fine-tuning** to building **production RAG pipelines**.
-
-- **LLM Integration** — OpenAI, Anthropic, Mistral, Llama
-- **Retrieval-Augmented Generation** — semantic search, vector stores, hybrid retrieval
-- **Fine-Tuning** — PEFT, LoRA, QLoRA for domain adaptation
-- **Prompt Engineering** — chain-of-thought, few-shot, structured output design
-- **Evaluation** — RAGAS, faithfulness, answer relevance metrics
-
-**Tools:** `LangChain` `LlamaIndex` `HuggingFace` `FAISS` `ChromaDB`
-
-</td>
-<td width="4%"></td>
-<td width="46%" valign="top">
-
-### 🤖 &nbsp; AI Agents
-
-Systems that don't just answer — they **plan, use tools, and act**.
-
-- **Agentic Architectures** — ReAct, Plan-and-Execute, Reflexion loops
-- **Tool Use & Function Calling** — web search, code execution, API orchestration
-- **Memory Systems** — episodic, semantic, and working memory
-- **Multi-Agent Frameworks** — role-based collaboration, task delegation
-- **Autonomous Pipelines** — self-correcting, goal-driven workflows
-
-**Frameworks:** `LangGraph` `AutoGen` `CrewAI` `Semantic Kernel`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-```
- USER INTENT
-      │
-      ▼
-┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
-│   ORCHESTRATOR  │────▶│   AGENT / CHAIN  │────▶│   TOOL CALLS    │
-│  (Router/Planner│     │  (Reason + Act)  │     │  Search · Code  │
-│   CoT / ReAct)  │◀────│                  │◀────│  APIs · Memory  │
-└─────────────────┘     └──────────────────┘     └─────────────────┘
-         │                        │
-         ▼                        ▼
-   FINAL RESPONSE           VECTOR STORE
-   (grounded, cited)        (RAG retrieval)
-```
-
----
-
-## `03` &nbsp; Research
+## `02` &nbsp; Research
 
 <table>
 <tr>
@@ -118,7 +60,7 @@ Systems that don't just answer — they **plan, use tools, and act**.
 <p>
   <img src="https://img.shields.io/badge/Status-Under_Review-f59e0b?style=flat-square&labelColor=0d0d14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Venue-2026_IEEE_Global_Symposium_on_Emerging_%26_Communication_Technologies-00f7ff?style=flat-square&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Venue-2026_IEEE_Global_Symposium_on_Emerging_%26_Communication_Technologies-a78bfa?style=flat-square&labelColor=0d0d14" />
 </p>
 
 **Authors:** Kasmya Bhatia, Ashwarya Pradhan, Vinit Kumar Gunjan, Umashanker Sahu, Dr. Gautam Kumar
@@ -135,7 +77,7 @@ Systems that don't just answer — they **plan, use tools, and act**.
 
 ---
 
-## `04` &nbsp; Experience
+## `03` &nbsp; Experience
 
 <table>
 <tr>
@@ -156,7 +98,7 @@ Systems that don't just answer — they **plan, use tools, and act**.
 
 ---
 
-## `05` &nbsp; Tech Stack
+## `04` &nbsp; Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -170,7 +112,7 @@ Systems that don't just answer — they **plan, use tools, and act**.
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00f7ff?style=flat-square&labelColor=0d0d14&color=00f7ff)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-a78bfa?style=flat-square&labelColor=0d0d14&color=a78bfa)
 ![LoRA](https://img.shields.io/badge/LoRA_%2F_PEFT-a78bfa?style=flat-square&labelColor=0d0d14)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-f472b6?style=flat-square&labelColor=0d0d14)
 
@@ -193,7 +135,7 @@ Systems that don't just answer — they **plan, use tools, and act**.
 
 ---
 
-## `06` &nbsp; Projects
+## `05` &nbsp; Projects
 
 > ⚡ **Actively building** — projects dropping soon. Watch this space.
 
@@ -214,7 +156,7 @@ Systems that don't just answer — they **plan, use tools, and act**.
 
 ---
 
-## `07` &nbsp; Let's Connect
+## `06` &nbsp; Let's Connect
 
 <div align="center">
 
@@ -236,6 +178,6 @@ Systems that don't just answer — they **plan, use tools, and act**.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a78bfa,100:0d0d14&height=110&section=footer&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:a78bfa,100:0d0d14&height=110&section=footer&fontSize=0" />
 
 </div>
