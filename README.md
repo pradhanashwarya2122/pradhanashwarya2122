@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a1628,100:a78bfa&height=130&section=header&fontSize=0" />
 
-<br/>
-
 <a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=52&duration=3000&pause=1200&color=F0EEFF&center=true&vCenter=true&width=720&height=90&lines=Ashwarya+Pradhan" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2800&pause=700&color=a78bfa&center=true&vCenter=true&width=640&height=36&lines=AI+%2F+ML+Engineer+%C2%B7+Generative+AI+Developer;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Real-World+Systems;Building+the+Intelligent+Layer+of+Software" />
-
-<br/>
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-a78bfa?style=flat-square&labelColor=0d0d14" />
@@ -22,11 +18,7 @@
   <img src="https://img.shields.io/badge/Status-Actively_Building-22c55e?style=flat-square&labelColor=0d0d14" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views" />
-
 </div>
-
-<br/>
 
 ---
 
@@ -41,9 +33,9 @@ class Ashwarya:
     degree      = "B.Tech CSE (AI & ML)"
     university  = "Manipal University Jaipur  ·  2023–2027"
     focus       = ["LLMs", "RAG Systems", "Deep Learning", "Generative AI"]
-    building    = "End-to-end intelligent systems that reason, remember, and act"
     interests   = ["NLP", "Computer Vision", "MLOps", "Agentic AI"]
-    philosophy  = "Ship systems that reason, remember, and act — not just predict."
+    building    = "End-to-end intelligent systems that reason, remember, and act"
+    on_radar    = ["fine-tuning pipelines", "multimodal models", "LLM evaluation frameworks"]
     fun_fact    = "I debug models the way detectives solve crimes — follow the loss curve."
 ```
 
@@ -137,22 +129,13 @@ class Ashwarya:
 
 ## `05` &nbsp; Projects
 
-> ⚡ **Actively building** — projects dropping soon. Watch this space.
-
-<details>
-<summary><b>📌 Projects in the pipeline &nbsp;—&nbsp; click to expand</b></summary>
-
-<br/>
+> ⚡ **Actively building** — shipping soon.
 
 | Status | Project | What It Is | Stack |
 |--------|---------|------------|-------|
-| 🔜 | **RAG Document Q&A System** | Retrieval-augmented pipeline for grounded, cited document querying | `LangChain` `FAISS` `OpenAI` `Streamlit` |
-| 🔜 | **Agentic Research Assistant** | Multi-step agent that plans, searches, and synthesises answers autonomously | `LangGraph` `CrewAI` `Tool Calling` |
-| 🔜 | **Fine-tuned Domain LLM** | LoRA-based fine-tuning pipeline for domain-specific language understanding | `HuggingFace` `LoRA` `PEFT` `QLoRA` |
-| 🔜 | **GenAI Image Application** | Text-to-image generation app with diffusion models and custom Streamlit UI | `Diffusers` `SDXL` `Streamlit` |
-| 🔜 | **End-to-End ML Pipeline** | Production ML system: raw data → trained model → deployed REST API | `scikit-learn` `FastAPI` `AWS` |
-
-</details>
+| 🔨 | **RAG Document Q&A System** | Retrieval-augmented pipeline for grounded, cited document querying | `LangChain` `FAISS` `OpenAI` `Streamlit` |
+| 🔨 | **Agentic Research Assistant** | Multi-step agent that plans, searches, and synthesises answers autonomously | `LangGraph` `CrewAI` `Tool Calling` |
+| 🔨 | **Fine-tuned Domain LLM** | LoRA-based fine-tuning pipeline for domain-specific language understanding | `HuggingFace` `LoRA` `PEFT` `QLoRA` |
 
 ---
 
@@ -162,10 +145,6 @@ class Ashwarya:
 
 <a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/">
   <img src="https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:pradhanashwarya2122@gmail.com">
@@ -178,6 +157,6 @@ class Ashwarya:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:a78bfa,100:0d0d14&height=110&section=footer&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a1628,100:a78bfa&height=110&section=footer&fontSize=0" />
 
 </div>
