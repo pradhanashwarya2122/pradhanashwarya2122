@@ -34,7 +34,7 @@ class Ashwarya:
     university  = "Manipal University Jaipur  ·  2023–2027"
     focus       = ["LLMs", "RAG Systems", "Deep Learning", "Generative AI"]
     interests   = ["NLP", "Computer Vision", "MLOps", "Agentic AI"]
-    building    = "End-to-end intelligent systems that reason, remember, and act"
+    building    = "End-to-end intelligent systems that reason, remember,and act"
     on_radar    = ["fine-tuning pipelines", "multimodal models", "LLM evaluation frameworks"]
     fun_fact    = "I debug models the way detectives solve crimes — follow the loss curve."
 ```
