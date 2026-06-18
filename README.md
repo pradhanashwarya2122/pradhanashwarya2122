@@ -55,7 +55,7 @@ class Ashwarya:
   <img src="https://img.shields.io/badge/Venue-2026_IEEE_Global_Symposium_on_Emerging_%26_Communication_Technologies-a78bfa?style=flat-square&labelColor=0d0d14" />
 </p>
 
-**Authors:** Kasmya Bhatia, Ashwarya Pradhan, Vinit Kumar Gunjan, Umashanker Sahu, Dr. Gautam Kumar
+**Authors:** Kasmya Bhatia, Ashwarya Pradhan, Dr. Gautam Kumar
 **Dept. of AI & ML, Manipal University Jaipur**
 
 - Designed a **federated learning architecture** for distributed, privacy-preserving network intrusion detection — models train locally across decentralised nodes with no raw data sharing, ensuring scalability and data compliance.
