@@ -1,0 +1,22 @@
+name: Generate Bomberman
+on: workflow_dispatch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: bomberman-contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_pacman: yes
+          plugin_pacman_user: pradhanashwarya2122
+          plugin_pacman_animation: yes
+          plugin_pacman_game: bomberman
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: pacman-output
+          keep_files: true
