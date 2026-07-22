@@ -189,9 +189,7 @@ POLYNOUS is my flagship build — a full-stack multi-agent AI platform where **s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:F72585,100:FF6B35&height=3&section=header" width="100%" />
 
-## `08` &nbsp; 🎮 &nbsp; The Arcade
 
-Every green square below is a real commit, powering an actual game. My ship fires on the days I shipped code — feed it well. 🚀
 
 <div align="center">
 
