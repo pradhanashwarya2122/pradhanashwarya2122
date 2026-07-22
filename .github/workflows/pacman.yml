@@ -1,30 +1,49 @@
-name: generate arcade contribution graph
+name: Generate All Game Contribution Graphs
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
+    name: Generate All Game SVGs
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    strategy:
+      matrix:
+        game: [pacman, bomberman, puzzle-bobble, galaga]
     steps:
-      - name: generate contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: actions/checkout@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'galaga'
+          fetch-depth: 0
+      
+      - name: Generate ${{ matrix.game }} SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: ${{ matrix.game }}-contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: no
+          plugin_contributors: no
+          plugin_calendar: no
+          plugin_people: no
+          plugin_stars: no
+          plugin_followup: no
+          plugin_lines: no
+          plugin_traffic: no
+          plugin_achievements: no
+          plugin_languages: no
+          
+          # Game configuration
+          plugin_pacman: yes
+          plugin_pacman_user: pradhanashwarya2122
+          plugin_pacman_animation: yes
+          plugin_pacman_game: ${{ matrix.game }}
 
-      - name: push SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to pacman-output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: pacman-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: pacman-output
+          keep_files: true  # Keep all files, don't overwrite
