@@ -1,49 +1,21 @@
-name: Generate All Game Contribution Graphs
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:      # Allows manual trigger
-
+name: Generate Pacman
+on: workflow_dispatch
 jobs:
   build:
-    name: Generate All Game SVGs
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        game: [pacman, bomberman, puzzle-bobble, galaga]
     steps:
       - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
         with:
-          fetch-depth: 0
-      
-      - name: Generate ${{ matrix.game }} SVG
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ matrix.game }}-contribution-graph.svg
+          filename: pacman-contribution-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_habits: no
-          plugin_contributors: no
-          plugin_calendar: no
-          plugin_people: no
-          plugin_stars: no
-          plugin_followup: no
-          plugin_lines: no
-          plugin_traffic: no
-          plugin_achievements: no
-          plugin_languages: no
-          
-          # Game configuration
           plugin_pacman: yes
           plugin_pacman_user: pradhanashwarya2122
           plugin_pacman_animation: yes
-          plugin_pacman_game: ${{ matrix.game }}
-
-      - name: Deploy to pacman-output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           publish_branch: pacman-output
-          keep_files: true  # Keep all files, don't overwrite
+          keep_files: true
