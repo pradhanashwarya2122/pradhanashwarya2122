@@ -203,7 +203,7 @@ POLYNOUS is my flagship build — a full-stack multi-agent AI platform where **s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
 
-## `09` &nbsp; 🤝 &nbsp; Let's Connect
+## `08` &nbsp; 🤝 &nbsp; Let's Connect
 
 <div align="center">
 
