@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/Published-IEEE_2026-FFB627?style=flat-square&labelColor=1a1a2e" />
 </p>
 
-<p align="left">Hello World!!</p>
-
 </div>
 
 ---
@@ -181,10 +179,48 @@ POLYNOUS is my flagship build — a full-stack multi-agent AI platform where sev
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pradhanashwarya2122&color=F72585&style=flat-square&label=Profile+Views)
 
+---
+
+### 🎮 Choose Your Game!
+
+<details>
+<summary><b>🟡 Pacman</b> <i>(click to expand)</i></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+</details>
+
+<details>
+<summary><b>💣 Bomberman</b> <i>(click to expand)</i></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+</details>
+
+<details>
+<summary><b>🫧 Puzzle Bobble</b> <i>(click to expand)</i></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
+</details>
+
+---
+
+### 🏆 Galaga (Default Active)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 </div>
