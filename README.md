@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a1628,100:a78bfa&height=130&section=header&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 
 <a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=52&duration=3000&pause=1200&color=F0EEFF&center=true&vCenter=true&width=720&height=90&lines=Ashwarya+Pradhan" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=52&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=720&height=90&lines=Ashwarya+Pradhan" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2800&pause=700&color=a78bfa&center=true&vCenter=true&width=640&height=36&lines=AI+%2F+ML+Engineer+%C2%B7+Generative+AI+Developer;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Real-World+Systems;Building+the+Intelligent+Layer+of+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2800&pause=700&color=39FF14&center=true&vCenter=true&width=640&height=36&lines=AI+%2F+ML+Engineer+%C2%B7+Generative+AI+Developer;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Real-World+Systems;Building+the+Intelligent+Layer+of+Software" />
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-a78bfa?style=flat-square&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-39FF14?style=flat-square&labelColor=0d0d14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Manipal_University_Jaipur-2023--2027-a78bfa?style=flat-square&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Manipal_University_Jaipur-2023--2027-39FF14?style=flat-square&labelColor=0d0d14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-GenAI_%26_Agentic_Systems-f472b6?style=flat-square&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Focus-GenAI_%26_Agentic_Systems-00ffcc?style=flat-square&labelColor=0d0d14" />
   &nbsp;
   <img src="https://img.shields.io/badge/Published-IEEE_2026-22c55e?style=flat-square&labelColor=0d0d14" />
 </p>
+
+<p align="left">Hello World!!</p>
 
 </div>
 
@@ -24,21 +26,27 @@
 
 ## `01` &nbsp; About Me
 
-> *Building AI systems that solve real problems — not just notebooks that sit on a hard drive.*
+```bash
+$ whoami
+> Ashwarya Pradhan — AI/ML Engineer, systems builder, research author
 
-I'm an AI/ML engineer pursuing my **B.Tech in Computer Science (AI & ML)** at **Manipal University Jaipur**. My work sits at the boundary of machine learning research and production-grade software engineering — with a focus on **Generative AI**, **autonomous agents**, and **retrieval-augmented systems**.
+$ cat philosophy.log
+> I don't ship notebooks that sit on a hard drive.
+> I ship systems that reason, remember, and act — end to end, in production.
 
-```python
-class Ashwarya:
-    degree      = "B.Tech CSE (AI & ML)"
-    university  = "Manipal University Jaipur  ·  2023–2027"
-    focus       = ["LLMs", "RAG Systems", "Deep Learning", "Generative AI"]
-    interests   = ["NLP", "Computer Vision", "MLOps", "Agentic AI"]
-    building    = "End-to-end intelligent systems that reason, remember, and act"
-    shipped     = "POLYNOUS — 7-agent neural research OS (deployed, multi-user, BYO keys)"
-    published   = "FedCL-NIDS — federated intrusion detection, IEEE 2026"
-    on_radar    = ["fine-tuning pipelines", "multimodal models", "LLM evaluation frameworks"]
-    fun_fact    = "I debug models the way detectives solve crimes — follow the loss curve."
+$ ./scan --target=background --verbose
+> [degree]     B.Tech CSE (AI & ML) · Manipal University Jaipur · 2023–2027
+> [focus]      LLMs · RAG Systems · Deep Learning · Generative AI
+> [interests]  NLP · Computer Vision · MLOps · Agentic AI
+> [shipped]    POLYNOUS — 7-agent neural research OS (deployed, multi-user, BYO keys)
+> [published]  FedCL-NIDS — federated intrusion detection, IEEE 2026
+> [on_radar]   fine-tuning pipelines · multimodal models · LLM evaluation frameworks
+
+$ echo $DEBUG_METHOD
+> "follow the loss curve — every anomaly is a clue"
+
+$ status
+> [ONLINE] probing new problems in AI, one architecture at a time
 ```
 
 ---
@@ -82,7 +90,7 @@ POLYNOUS is my flagship build — a full-stack multi-agent AI platform where sev
 <p>
   <img src="https://img.shields.io/badge/Status-Published-22c55e?style=flat-square&labelColor=0d0d14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Venue-2026_IEEE_Global_Symposium_on_Emerging_%26_Communication_Technologies-a78bfa?style=flat-square&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Venue-2026_IEEE_Global_Symposium_on_Emerging_%26_Communication_Technologies-39FF14?style=flat-square&labelColor=0d0d14" />
 </p>
 
 **Authors:** Kasmya Bhatia, Ashwarya Pradhan, Dr. Gautam Kumar
@@ -135,9 +143,9 @@ POLYNOUS is my flagship build — a full-stack multi-agent AI platform where sev
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-d97706?style=flat-square&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-a78bfa?style=flat-square&labelColor=0d0d14&color=a78bfa)
-![LoRA](https://img.shields.io/badge/LoRA_%2F_PEFT-a78bfa?style=flat-square&labelColor=0d0d14)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-f472b6?style=flat-square&labelColor=0d0d14)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-39FF14?style=flat-square&labelColor=0d0d14&color=39FF14)
+![LoRA](https://img.shields.io/badge/LoRA_%2F_PEFT-39FF14?style=flat-square&labelColor=0d0d14)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00ffcc?style=flat-square&labelColor=0d0d14)
 
 ### Data & Retrieval
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
@@ -175,7 +183,25 @@ POLYNOUS is my flagship build — a full-stack multi-agent AI platform where sev
 
 ---
 
-## `07` &nbsp; Let's Connect
+## `07` &nbsp; Live Stats
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradhanashwarya2122&theme=react-dark&hide_border=false&color=39FF14&line=39FF14&point=00ffcc)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pradhanashwarya2122&color=39FF14&style=flat-square&label=Profile+Views)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pradhanashwarya2122/pradhanashwarya2122/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+</div>
+
+---
+
+## `08` &nbsp; Let's Connect
 
 <div align="center">
 
@@ -193,6 +219,6 @@ POLYNOUS is my flagship build — a full-stack multi-agent AI platform where sev
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a1628,100:a78bfa&height=110&section=footer&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 
 </div>
