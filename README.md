@@ -7,6 +7,14 @@
 <br/>
 
 <p>
+  <img src="https://img.shields.io/badge/Email-pradhanashwarya2122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-%2B91_7440956549-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/"><img src="https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<p>
   <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Manipal_University_Jaipur-2023--2027-F72585?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Focus-GenAI_%26_Agentic_Systems-7209B7?style=for-the-badge&labelColor=1a1a2e" />
