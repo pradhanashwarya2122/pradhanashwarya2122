@@ -246,8 +246,9 @@ An autonomous reconciliation agent that resolves discrepancies across order, set
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwarya-pradhan-4963a9219?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-pradhanashwarya2122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhanashwarya2122@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_7440956549-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917440956549)
 [![GitHub](https://img.shields.io/badge/GitHub-pradhanashwarya2122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradhanashwarya2122)
 
 <br/>
