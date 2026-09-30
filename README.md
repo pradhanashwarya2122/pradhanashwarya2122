@@ -2,385 +2,448 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Hey,%20I'm%20Ashwarya%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Applied%20Research&descAlignY=56&descSize=18&color=0:FF6B35,50:F72585,100:7209B7" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=760&height=32&lines=Building+with+LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+MLOps;Shipping+Systems%2C+Not+Notebooks;4+Deployed+Builds+%C2%B7+7-Agent+Research+OS+%C2%B7+POLYNOUS;IEEE+2026+Published+%C2%B7+2+Papers+Under+Review;Evaluation-First%3A+CIs%2C+Kappa%2C+Ablations%2C+Audits" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=820&height=32&lines=Building+with+LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+MLOps;Shipping+Systems%2C+Not+Just+Notebooks;Production+AI+%C2%B7+Evaluation+%C2%B7+Applied+Research;7-Agent+Research+OS+%C2%B7+Financial+AI+%C2%B7+MLOps+Safety;IEEE+2026+Published+%C2%B7+2+Papers+Under+Review" />
 
 <br/>
 
-<p>
-  <a href="mailto:pradhanashwarya2122@gmail.com"><img src="https://img.shields.io/badge/Email-pradhanashwarya2122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+917440956549"><img src="https://img.shields.io/badge/Phone-%2B91_7440956549-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/"><img src="https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<a href="mailto:pradhanashwarya2122@gmail.com">
+<img src="https://img.shields.io/badge/Email-pradhanashwarya2122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/">
+<img src="https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/pradhanashwarya2122">
+<img src="https://img.shields.io/badge/GitHub-pradhanashwarya2122-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Manipal_University_Jaipur-2023--2027-F72585?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Focus-GenAI_%26_Agentic_Systems-7209B7?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Published-IEEE_2026-FFB627?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/2_Papers-Under_Review-6366f1?style=for-the-badge&labelColor=1a1a2e" />
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pradhanashwarya2122&color=F72585&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Manipal_University_Jaipur-2023--2027-F72585?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Focus-GenAI_%26_Agentic_Systems-7209B7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/IEEE-2026_Research-FFB627?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
+---
 
-## `01` &nbsp; 🧬 &nbsp; About Me
+## `01` 🧬 About Me
 
-I'm an AI/ML engineer reading for a **B.Tech in Computer Science (AI & ML)** at **Manipal University Jaipur**, working where machine learning research meets production software engineering. My focus is **generative AI**, **autonomous agents**, **retrieval-augmented systems**, and the **operational layer** that keeps models honest once they're live.
+I'm an **AI/ML engineer and B.Tech CSE (AI & ML) student at Manipal University Jaipur**, interested in the gap between machine learning research and software systems that actually work outside a notebook.
 
-Three habits show up in everything below:
+My current focus is **Generative AI, multi-agent systems, RAG/GraphRAG, LLM evaluation, deep learning, and MLOps**.
 
-- **I ship deployed systems, not demos.** Every flagship project has a live URL, a container, a database and a deploy story.
-- **I evaluate before I claim.** Bootstrap confidence intervals, Cohen's κ, ablations, hallucination audits, ground-truth confusion matrices. If a number can't survive scrutiny, it doesn't go in the README.
-- **I write down what I rejected.** Decision logs, failure logs, honest-caveat sections. The reasoning is the artifact.
+I like building systems where the interesting part isn't just calling a model, but designing the surrounding machinery:
 
-> ✨ *"I don't just train models. I build the systems that put them to work, and the instruments that tell me when they're wrong."*
+* multi-agent orchestration
+* retrieval and knowledge graphs
+* deterministic verification around LLMs
+* evaluation and failure analysis
+* model monitoring and drift detection
+* production APIs and deployment
+* research systems with measurable claims
+
+> **I don't just want the model to work. I want to know when it is wrong, why it is wrong, and what the system does about it.**
+
+### What I care about
+
+|                       |                                                              |
+| --------------------- | ------------------------------------------------------------ |
+| 🎓 **Education**      | B.Tech CSE (AI & ML), Manipal University Jaipur · 2023–2027  |
+| 🧠 **Core Focus**     | LLMs · Multi-Agent Systems · RAG / GraphRAG · Deep Learning  |
+| ⚙️ **Engineering**    | FastAPI · React · PostgreSQL · Docker · GitHub Actions       |
+| 🔬 **Research**       | Federated Security · HCI · LLM Evaluation · Sustainable AI   |
+| 💼 **Experience**     | Machine Learning Intern · Metabrix Lab · Jun 2025 – Sep 2025 |
+| 🚀 **Flagship Build** | POLYNOUS · 7-agent AI research platform                      |
+| 💸 **Applied AI**     | ReconMint · Meridian · GuardianOps · Delta Support Agent     |
+
+---
+
+# `02` 🚀 Flagship Projects
+
+These are the projects that best represent how I approach AI engineering.
+
+## 🪐 POLYNOUS — Neural Research OS
 
 <div align="center">
 
-| | |
-|:---:|---|
-| 🎓 | **Education** &nbsp;·&nbsp; B.Tech CSE (AI & ML), Manipal University Jaipur · 2023–2027 |
-| 🧠 | **Core Focus** &nbsp;·&nbsp; LLMs · Multi-Agent Orchestration · RAG / GraphRAG · Deep Learning |
-| 🔭 | **Also Exploring** &nbsp;·&nbsp; NLP · Computer Vision · MLOps · Drift Detection · LLM Evaluation |
-| 🚀 | **Flagship** &nbsp;·&nbsp; POLYNOUS, a 7-agent neural research OS (deployed, multi-user, BYO keys) |
-| 💸 | **Also Shipped** &nbsp;·&nbsp; ReconMint · Meridian · GuardianOps · Delta Support Agent |
-| 📄 | **Research** &nbsp;·&nbsp; 1 published (IEEE 2026), 2 under review · federated security, HCI, LLM code auditing |
-| 💼 | **Experience** &nbsp;·&nbsp; ML Intern at Metabrix Lab · 3D face reconstruction (HRN) |
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pradhanashwarya2122/POLYNOUS)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-F72585?style=for-the-badge\&logo=cloudflare\&logoColor=white)](https://polynous.pages.dev)
+[![API Docs](https://img.shields.io/badge/API-Docs-FF6B35?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://polynous-api-production.up.railway.app/docs)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:F72585,100:FF6B35&height=3&section=header" width="100%" />
+A full-stack **multi-agent research platform** where seven specialized agents search, summarize, critique, debate and synthesize research into structured reports.
 
-## `02` &nbsp; 🗺️ &nbsp; Project Portfolio at a Glance
+### What makes it interesting
 
-| Project | One-line | Domain | Hardest part | Status |
-|---|---|---|---|---|
-| **POLYNOUS** | 7-agent LangGraph research OS with a per-user knowledge graph | GenAI / Agents | Stateful multi-agent orchestration + graph ML at request time | 🟢 Live |
-| **Meridian** | AI analyst for India + SEA private markets, per-field confidence | GenAI / FinTech | Structured extraction with source attribution and confidence | 🟢 Live |
-| **ReconMint** | Deterministic payment reconciliation with a hallucination verifier | FinTech / Agents | Making AI provably unable to state an untraceable number | 🟢 Shipped |
-| **GuardianOps** | Self-healing MLOps safety net for a fraud API | MLOps / Reliability | Catching *silent* wrong-answer failure, not just crashes | 🟢 Shipped |
-| **Delta Support Agent** | Twitter triage + reply agent with a hand-labeled golden set | NLP / Evaluation | Building evaluation rigorous enough to falsify my own claims | 🟢 Shipped |
+Unlike a simple LLM wrapper, POLYNOUS maintains explicit agent state, supports adversarial debate, persists research knowledge and exposes the reasoning pipeline through a production web application.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
+| Capability                | Implementation                                   |
+| ------------------------- | ------------------------------------------------ |
+| Multi-agent orchestration | LangGraph                                        |
+| Research pipeline         | Search → Summarize → Critic → Writer             |
+| Debate mode               | FOR / AGAINST / Judge agents                     |
+| Knowledge graph           | PostgreSQL + pgvector                            |
+| Graph intelligence        | PageRank · community detection · link prediction |
+| Semantic search           | Vector retrieval                                 |
+| Authentication            | Google + GitHub OAuth                            |
+| PDF analysis              | Retrieval-augmented document analysis            |
+| Streaming                 | Server-Sent Events                               |
+| Deployment                | React/Vite + Cloudflare Pages + FastAPI/Railway  |
 
-## `03` &nbsp; 🪐 &nbsp; POLYNOUS &nbsp;·&nbsp; Neural Research OS
+---
 
-<div align="center">
-<img src="https://img.shields.io/badge/⚡-Production--Grade_Multi--Agent_Research_Platform-F72585?style=for-the-badge&labelColor=1a1a2e" />
+## 📈 Meridian — AI Analyst for Private Markets
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradhanashwarya2122/POLYNOUS)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-F72585?style=for-the-badge&logo=cloudflare&logoColor=white)](https://polynous.pages.dev)
-[![API Docs](https://img.shields.io/badge/API-Docs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)](https://polynous-api-production.up.railway.app/docs)
+[![Live Demo](https://img.shields.io/badge/Live-meridian--fund--manager.pages.dev-F72585?style=for-the-badge\&logo=cloudflare\&logoColor=white)](https://meridian-fund-manager.pages.dev)
 
-![Repo Stars](https://img.shields.io/github/stars/pradhanashwarya2122/POLYNOUS?style=flat-square&color=F72585&labelColor=1a1a2e)
-![Repo Forks](https://img.shields.io/github/forks/pradhanashwarya2122/POLYNOUS?style=flat-square&color=FF6B35&labelColor=1a1a2e)
-![Last Commit](https://img.shields.io/github/last-commit/pradhanashwarya2122/POLYNOUS?style=flat-square&color=7209B7&labelColor=1a1a2e)
-</div>
+An AI research analyst for **PE/VC fund managers across India and Southeast Asia**.
 
-A full-stack platform where **seven agents orchestrate over LangGraph** to search, summarize, critique, debate and write structured research reports, with live web citations, confidence scoring, and a personal knowledge graph that grows per user.
+A three-agent LangGraph pipeline researches firms, extracts sourced facts, assigns confidence to individual fields and generates analyst-style profiles.
 
-**Why it's non-trivial:** most agent demos are a single chain. POLYNOUS is a stateful graph with a critic loop and an adversarial debate mode, serving multiple authenticated users who bring their own keys across seven providers, with the retrieved knowledge persisted as a traversable graph rather than thrown away after the response.
+### Pipeline
 
-| ✦ Capability | How it works | Tech |
-|---|---|---|
-| 7-agent pipeline | Search → Summarize → Critic → Writer → Debate, explicit state graph | `LangGraph` `Claude` `GPT-4o-mini` |
-| Debate Mode | FOR / AGAINST / Judge agents argue a claim, streamed live | `Claude` `SSE Streaming` |
-| Knowledge graph + GraphRAG | Typed relationship traversal over per-user entities | `PostgreSQL` `pgvector` |
-| Graph ML | PageRank, community detection, link prediction, computed in-request | `Pure Python` `Canvas` `Three.js` |
-| Semantic search | Constellation UI over embedded findings | `Pinecone` `Voyage AI` |
-| BYO API keys | 7 providers, encrypted at rest, never logged | `Fernet` `AES-128-CBC` |
-| Auth | Google + GitHub OAuth 2.0, JWT sessions | `FastAPI` `JWT` |
-| PDF analysis | Upload, chunk, retrieve, with security scanning on ingest | `PyPDF2` `RAG` |
-| Analytics | Neural dashboard rendered on raw canvas, no chart library | `Canvas API` |
-| Deploy | React/Vite on Cloudflare Pages, FastAPI on Railway | `Docker` `PostgreSQL` |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:F72585,100:FF6B35&height=3&section=header" width="100%" />
-
-## `04` &nbsp; 📈 &nbsp; Meridian &nbsp;·&nbsp; AI Analyst for India + SEA Private Markets
-
-<div align="center">
-<img src="https://img.shields.io/badge/⚡-Sourced_or_Silent_·_Confidence_Not_Vibes-FFB627?style=for-the-badge&labelColor=1a1a2e" />
-
-[![Live Demo](https://img.shields.io/badge/Live-meridian--fund--manager.pages.dev-F72585?style=for-the-badge&logo=cloudflare&logoColor=white)](https://meridian-fund-manager.pages.dev)
-</div>
-
-Type a fund manager's name. A **3-agent pipeline** researches them, structures the findings into a strict Postgres schema with **per-field confidence**, produces an analyst-grade takeaway, and files it in a shared tracker you can query in plain English.
-
-Built deliberately as a job application: instead of sending a resume for the Lanmea Group AI & Software Engineering internship, I built the tool their own listing said they needed.
-
-**The pipeline**
-
-1. **Research agent** generates 5–7 targeted queries per firm (fund history, AUM, portfolio, leadership, sector thesis, recent activity), fires them through Tavily with 3× exponential-backoff retry, and extracts atomic facts each carrying its source URL. Output: 8–20 sourced findings.
-2. **Structuring agent** converts findings to strict JSON where every field is tagged `verified` / `inferred` / `unknown` with an attributed source, then produces a 3-bullet analyst takeaway whose numbers must already appear in the profile.
-3. **Writer agent** streams a one-page Markdown profile: takeaway first, thesis as a pullquote, then fact sheet, portfolio, leadership, activity, what to watch.
-
-Every stage streams progress over SSE: `phase`, `queries`, `findings`, `profile`, `report_chunk`, `report_done`, `saved`.
-
-| ✦ Feature | Detail |
-|---|---|
-| Ask Meridian (⌘K) | Global RAG across every firm's findings, answers cited `[n]`, firm names clickable |
-| Comparables | 3 most similar firms per profile, scored on sector / stage / geography overlap |
-| Compare + LLM diff | 2–4 firms side by side, plus an auto-generated "what distinguishes these" analysis |
-| First-class entities | `fund_managers`, `deals`, `people`, `findings` each get a table with FKs, so cross-firm queries are cheap SQL |
-| Live signal card | "3 fund closes in the last 90 days" plus most-recently-updated firms |
-| Analyst notes + watchlist | Debounced autosave per firm; starred firms persisted per browser |
-| Exports | CSV, Markdown, print-styled PDF |
-| Weekly automation | GitHub Action hits `/api/refresh` every Monday to re-profile stale rows |
-| Hardening | CORS, security headers, per-IP rate limiting (slowapi), optional shared-secret gate, non-root Docker user |
-
-**Design principles I held to:** sourced or silent · confidence, not vibes · a tracker, not a lookup · no fabrication even at empty state (seed rows are badged `seed`, never passed off as generated).
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
-
-## `05` &nbsp; 💸 &nbsp; ReconMint &nbsp;·&nbsp; AI-Verified Financial Reconciliation
-
-<div align="center">
-<img src="https://img.shields.io/badge/⚡-Deterministic_Math_·_AI_Scoped_to_Language-7209B7?style=for-the-badge&labelColor=1a1a2e" />
-</div>
-
-An autonomous reconciliation agent that resolves discrepancies across order, settlement and bank data with a **fully deterministic matching and fee-reconstruction engine**. AI is deliberately scoped to language generation only, and a custom hallucination verifier rejects any AI-stated figure that cannot be traced back to computed data.
-
-| ✦ Result | Detail |
-|---|---|
-| Match rate | **97.7%** at ~12,700 records/sec |
-| Accuracy | **1.00 recall / 0.93 F1** against held-out ground truth |
-| Matching pipeline | Two-pass exact plus confidence-scored fuzzy matching, integer-paise precision, O(n²) bottleneck removed |
-| Trust layer | Deterministic fee engine + hallucination verifier + full audit logging |
-| Stack | `FastAPI` `React` `Live Agent-Trace UI` |
-
-**The thesis:** in finance, an LLM that is confidently wrong is worse than no LLM. So the numbers come from code, the prose comes from the model, and a verifier sits between them.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:F72585,100:FF6B35&height=3&section=header" width="100%" />
-
-## `06` &nbsp; 🛡️ &nbsp; GuardianOps &nbsp;·&nbsp; Self-Healing MLOps Safety Net
-
-<div align="center">
-<img src="https://img.shields.io/badge/⚡-Catches_Silent_Failure,_Not_Just_Crashes-25D366?style=for-the-badge&labelColor=1a1a2e" />
-</div>
-
-A fraud-detection API can fail two ways. It can crash, which is obvious and someone gets paged. Or it can **stay up and start giving quietly wrong answers** because a model got corrupted or an upstream pipeline shifted, approving fraud while every health check reads green. The second is far more expensive, and most monitoring never sees it.
-
-GuardianOps is the second-opinion layer: it polls the fraud API, computes rolling **PSI + Kolmogorov-Smirnov** drift against a frozen baseline, and acts under an explicit two-tier policy.
-
-- **Crash** → auto-restart (policy P-001), incident logged with real MTTR.
-- **Silent failure** → open an incident and **wait for a human to authorize the rollback** (policy P-002), because you cannot silently mutate a live fraud model without a compliance sign-off.
-
-Every incident produces a SQLite row with reasoning and evidence, an auto-generated Markdown post-mortem on disk, and an MLflow run tagged with type and action, with MTTR and blast radius as metrics.
-
-```
-     [Chaos buttons] ──▶ chaos-injector ──(crash/slow/corrupt)──▶ fraud-api (FastAPI)
-                                                                      │  polled every 2s
-                                                                      ▼
-                                                                  guardian ──▶ MLflow ledger
-                                                                      ├──▶ Prometheus ──▶ Grafana
-                                                                      └──▶ Dashboard
+```text
+Fund Manager
+     ↓
+Research Agent
+     ↓
+Targeted Web Search
+     ↓
+Structured Findings
+     ↓
+Confidence + Source Attribution
+     ↓
+Analyst Profile
+     ↓
+RAG / Compare / Ask
 ```
 
-| ✦ Layer | What's in it |
-|---|---|
-| Drift detection | PSI + `scipy.stats.ks_2samp` over a rolling 60-sample window vs a 200-sample startup baseline |
-| Confidence score | 0–100 gauge that decays smoothly as PSI grows, so you watch drift build before it trips |
-| Explainability | Plain-English reasoning on every incident: PSI, KS p-value, threshold, policy fired |
-| Chaos engineering | Separate injector service with three modes: `crash`, `slow`, `corrupt` (shifted Beta distribution, no crash, no latency spike) |
-| Ground truth | 500 deterministic credit-card transactions with ~4% injected fraud patterns; `POST /replay` returns confusion matrix, precision, recall, F1 |
-| Runtime control | `POST /config` mutates thresholds and cadence live, no restart |
-| Dashboard | Single HTML file, zero build: oscilloscope trace with score-gradient stroke, session ledger, baseline-vs-live histogram, narration console, print-ready incident report |
-| Ops discipline | 7-service Docker Compose, GitHub Actions CI (3 parallel jobs), 9 pytest cases, `audit.sh` probing all 21 endpoints with PASS/FAIL |
+The application also supports global RAG, firm-level RAG, side-by-side comparisons, comparable-firm analysis, deal tracking, analyst notes, exports and scheduled refreshes.
 
-**What I documented rather than hid:** the scorer is rule-based on purpose (the project is the safety net *around* a model, not the model), the transaction stream is synthetic while the replay dataset is labeled and real, and the disabled settings slider is labeled `(fixed)` because an honest UI beats one that silently does nothing.
+**Stack:** `React` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `Tavily` `SSE` `Docker`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
+---
 
-## `07` &nbsp; ✈️ &nbsp; Delta Customer-Support Agent &nbsp;·&nbsp; Evaluation-First NLP
+## 💸 ReconMint — AI-Verified Financial Reconciliation
 
-<div align="center">
-<img src="https://img.shields.io/badge/⚡-258_Hand--Labeled_Rows_·_κ%3D0.775_·_Bootstrap_CIs-6366f1?style=for-the-badge&labelColor=1a1a2e" />
-</div>
+An autonomous reconciliation system for resolving discrepancies across **orders, payment settlements and bank data**.
 
-A triage and reply agent for Delta's Twitter support, built from the Kaggle *Customer Support on Twitter* dataset. I chose one brand from ~100, **derived the intent taxonomy from the data rather than from my head**, hand-labeled a golden set of 258 tweets, and built an LLM-first RAG agent that classifies intent, drafts a reply grounded in Delta's own historical replies, and decides auto-handle versus escalate.
+The key design decision is deliberately simple:
 
-**Head-to-head on a held-out 78-row eval slice**
+> **The LLM does not get to invent financial numbers.**
 
-| System | Intent acc | Intent macro-F1 | Escalate F1 | Reply (judge) | Reply (human-adj) |
-|---|---:|---:|---:|---:|---:|
-| Trivial baseline | 19.2% | 0.029 | 0.836 | 3.42 | 2.67 |
-| TF-IDF + LR baseline | 37.2% | 0.378 | 0.625 | 4.17 | 3.42 |
-| **LLM-RAG agent** | **71.8%** | **0.731** | **0.879** | **4.57** | **3.78** |
+The reconciliation engine performs deterministic matching and fee reconstruction. The model is restricted to language generation, while a verification layer checks that generated figures can be traced back to computed data.
 
-Reply quality is scored by an LLM judge (`gpt-4o-mini`, cross-family from the agent's `gpt-4o` to blunt self-preference bias) on groundedness, tone, actionability and safety, validated against a 40-row hand-scoring pass (Pearson r = 0.65; the judge over-scores actionability by +1.4, so human-adjusted numbers apply per-axis bias correction).
+### Engineering highlights
 
-**How the system is built**
+* Two-pass exact + fuzzy matching
+* Integer-paise precision
+* Deterministic fee reconstruction
+* Hallucination verification
+* Full audit logging
+* Agent-based exception handling
+* Live agent trace interface
 
-- Intent taxonomy **discovered** by clustering 24,300 opening tweets with BGE embeddings + UMAP + HDBSCAN, named via class-based TF-IDF, consolidated to 10 intents plus `other`.
-- Golden set of 258 rows, stratified with a per-intent floor of 15, intra-annotator Cohen's κ = 0.775 on a 40-row blind re-label.
-- Agent = rubric-and-few-shot intent classifier + BGE-cosine retrieval over historical replies + reply drafter with a hallucination-integrity filter + a **5-signal OR-combined escalation policy**, because asking one LLM "should we escalate?" is not a policy.
-- Retrieval index excludes the golden set, so there's no leak.
+**Measured project result:** 97.7% match rate at approximately 12,700 records/sec, with 1.00 recall and 0.93 F1 against held-out ground truth.
 
-**What the evaluation caught that a demo never would**
+**Stack:** `FastAPI` `React` `Python` `LLMs` `Deterministic Matching`
 
-- A `grounded_in` audit found the model inventing tweet_ids in **6/78** replies. Prompt hardening took it to **0/78**.
-- A hand-labeled escalation subset showed my derived escalation gold was only **κ = 0.29** against human judgment, meaning the numbers I had been reporting were inflated against a proxy. I updated the report to say so rather than quietly keep the better figure.
-- A pre-registered κ prediction had **two of three predictions falsified**, reported as such.
-- A 27-entry decision log records what I rejected, not just what I built.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:F72585,100:FF6B35&height=3&section=header" width="100%" />
+## 🛡️ GuardianOps — MLOps Safety Net
 
-## `08` &nbsp; 📄 &nbsp; Research
+A self-healing MLOps system designed around a problem conventional monitoring often misses:
 
-<table>
-<tr>
-<td>
+**a model can remain online while producing increasingly wrong predictions.**
 
-### FedCL-NIDS: Federated Closed-Loop Network Intrusion Detection with Automated YARA Rule Voting Consensus
+GuardianOps monitors a fraud-detection API, measures distribution drift using **PSI and Kolmogorov-Smirnov statistics**, and applies an explicit recovery policy.
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Published-FFB627?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Venue-2026_IEEE_Global_Symposium-F72585?style=for-the-badge&labelColor=1a1a2e" />
-</p>
+```text
+Crash
+  ↓
+Auto Restart
+  ↓
+Incident + MTTR
 
-**Authors:** Kasmya Bhatia, Ashwarya Pradhan, Dr. Gautam Kumar · Dept. of AI & ML, Manipal University Jaipur
 
-- Designed a **federated learning architecture** for distributed, privacy-preserving intrusion detection: models train locally across decentralised nodes with no raw data sharing.
-- Built an **automated YARA rule voting consensus mechanism** that dynamically generates and validates threat signatures, cutting false positives and adapting to novel attacks.
+Silent Model Failure
+  ↓
+Drift Detection
+  ↓
+Human Approval
+  ↓
+Rollback
+  ↓
+Postmortem + Audit
+```
 
-**Keywords:** `Federated Learning` `Network Security` `YARA Rules` `Intrusion Detection` `Privacy-Preserving AI`
+### Includes
 
-</td>
-</tr>
-<tr>
-<td>
+* PSI + KS drift detection
+* Confidence scoring
+* Chaos injection
+* Human approval gates
+* MLflow incident ledger
+* Prometheus + Grafana
+* Automated postmortems
+* Docker Compose
+* GitHub Actions CI
+* Automated endpoint auditing
 
-### Dissociation Between Transparency, Trust and Error Detection in AI-Assisted Decision Making
+**Stack:** `FastAPI` `MLflow` `Prometheus` `Grafana` `Docker` `Pytest`
 
-<p><img src="https://img.shields.io/badge/Status-Under_Review_2026-6366f1?style=for-the-badge&labelColor=1a1a2e" /></p>
+---
 
-- Co-authored a within-subject HCI study (**N = 54**) on AI-assisted decision making.
-- Surfaced a **dissociation between user trust/preference and actual error-detection performance** across transparent versus baseline AI interfaces: people preferred the interface that did not make them better.
-- Analysis via Holm-corrected paired tests, GEE models and bootstrap confidence intervals.
+## ✈️ Delta Support Agent — Evaluation-First NLP
 
-**Keywords:** `Human-Computer Interaction` `Statistical Analysis` `AI Transparency` `Trust Calibration`
+An LLM-RAG customer support agent built around the **Customer Support on Twitter** dataset.
 
-</td>
-</tr>
-<tr>
-<td>
+The system classifies customer intent, retrieves relevant historical responses, drafts a grounded response and decides whether the interaction should be handled automatically or escalated.
 
-### KYRION: A Multi-Dimensional Framework for Auditing LLM-Generated Python Code
+Rather than treating the demo as the result, I built a proper evaluation pipeline:
 
-<p><img src="https://img.shields.io/badge/Status-Under_Review_2026-6366f1?style=for-the-badge&labelColor=1a1a2e" /></p>
+* 24,300 opening tweets clustered for taxonomy discovery
+* 258 manually labelled golden examples
+* Cohen's κ evaluation
+* Held-out evaluation set
+* LLM-as-judge
+* Human validation
+* Hallucination auditing
+* Bootstrap confidence intervals
+* Decision log
 
-- Built an auditing framework for LLM-generated Python spanning dependency-hallucination detection, instruction adherence and static analysis.
-- Achieved **1.00 recall** on the validation set and surfaced statistically significant model-specific coding behaviours (**p < 10⁻¹²**), benchmarked against Bandit, Ruff and Pylint.
+The evaluation caught cases where the model fabricated tweet IDs, which were then eliminated through prompt hardening.
 
-**Keywords:** `Static Analysis` `LLM Evaluation` `Code Auditing` `Python`
+**Stack:** `Python` `BGE` `RAG` `OpenAI` `HDBSCAN` `UMAP` `LLM Evaluation`
 
-</td>
-</tr>
-</table>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
+# `03` 🌍 Research & Sustainability
 
-## `09` &nbsp; 💼 &nbsp; Experience
+## 🌱 EcoBudget
 
-<table>
-<tr>
-<td>
+**Task-sufficient web retrieval for greener 5G question answering.**
 
-### Machine Learning Intern &nbsp;·&nbsp; **Metabrix Lab**
-`Jun 2025 – Sep 2025`
+EcoBudget investigates how much web data an AI system actually needs to answer a question.
 
-- Analyzed, debugged and optimised the **HRN (Hierarchical Representation Network)** deep learning codebase for 3D face reconstruction, resolving critical bugs that improved model accuracy and inference stability.
-- Maintained the production codebase and authored the technical documentation that cut onboarding time for new engineers.
+Instead of loading entire pages, the system decomposes the question, retrieves relevant evidence and learns when it has enough information to stop retrieving.
 
-**Stack:** `PyTorch` `3D Reconstruction` `Python` `Git`
+```text
+Question
+   ↓
+Decompose
+   ↓
+Entity-aware Retrieval
+   ↓
+Evidence Tracking
+   ↓
+Adaptive Stop / Retrieve Policy
+   ↓
+Answer
+   ↓
+Measure Bytes + Energy
+```
 
-</td>
-</tr>
-</table>
+The project combines:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:F72585,100:FF6B35&height=3&section=header" width="100%" />
+`LoRA` `FLAN-T5` `MiniLM` `RoBERTa` `LinUCB` `Thompson Sampling` `5G Energy Modelling`
 
-## `10` &nbsp; 🛠️ &nbsp; Tech Stack
+The research evaluates both answer quality and the energy/transfer cost of retrieval.
 
-<div align="center">
+---
 
-**Languages, Frameworks & Infra**
+# `04` 🔬 Research
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,react,fastapi,git,github,linux,mysql,mongodb,aws,tensorflow,sklearn&theme=dark" />
+## FedCL-NIDS
 
-</div>
+### Federated Closed-Loop Network Intrusion Detection with Automated YARA Rule Voting Consensus
 
-**Generative AI & Agents**
+**Published · IEEE Global Symposium 2026**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-d97706?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_GraphRAG-F72585?style=flat-square&labelColor=1a1a2e&color=F72585)
-![LoRA](https://img.shields.io/badge/LoRA_%2F_PEFT-FF6B35?style=flat-square&labelColor=1a1a2e)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7209B7?style=flat-square&labelColor=1a1a2e)
-![SSE](https://img.shields.io/badge/SSE_Streaming-6366f1?style=flat-square&labelColor=1a1a2e)
+Research into privacy-preserving network intrusion detection using federated learning, combined with an automated YARA-rule voting mechanism for threat-signature generation and validation.
 
-**Data & Retrieval**
+**Keywords:** `Federated Learning` `Network Security` `YARA` `Intrusion Detection` `Privacy-Preserving AI`
 
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-6366f1?style=flat-square&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%2F_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily_Search-FFB627?style=flat-square&labelColor=1a1a2e)
-![BGE](https://img.shields.io/badge/BGE_Embeddings-F72585?style=flat-square&labelColor=1a1a2e)
+---
 
-**ML / DL / Evaluation**
+## Dissociation Between Transparency, Trust and Error Detection in AI-Assisted Decision Making
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![UMAP](https://img.shields.io/badge/UMAP_%2F_HDBSCAN-7209B7?style=flat-square&labelColor=1a1a2e)
-![LLM-as-Judge](https://img.shields.io/badge/LLM--as--Judge-FF6B35?style=flat-square&labelColor=1a1a2e)
+**Under Review · 2026**
 
-**MLOps & Tooling**
+A within-subject HCI study investigating whether transparency and user preference actually correspond to improved ability to detect AI errors.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=google&logoColor=white)
+**N = 54**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
+Analysis includes Holm-corrected paired tests, GEE models and bootstrap confidence intervals.
 
-## `11` &nbsp; 🧭 &nbsp; How I Work
+**Keywords:** `HCI` `AI Transparency` `Trust Calibration` `Statistical Analysis`
 
-| Principle | What it looks like in the repos |
-|---|---|
-| **Sourced or silent** | Meridian renders nothing as verified without an attributed URL |
-| **Confidence, not vibes** | Per-field `verified` / `inferred` / `unknown` tags an analyst can read at a glance |
-| **Deterministic where it counts** | ReconMint's numbers come from code; the model only writes the sentence around them |
-| **Instrument everything** | GuardianOps: 21-endpoint audit script, every dashboard value traced to a source file |
-| **Falsifiable claims** | Bootstrap CIs, pre-registered predictions, ablations, judge-versus-human agreement |
-| **Document the rejected path** | 27-entry decision log, failure logs, explicit "what is not included and why" sections |
-| **Honest caveats in the README** | Every project names what would inflate its own headline number |
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:F72585,100:FF6B35&height=3&section=header" width="100%" />
+## KYRION — LLM-Generated Python Code Auditing
 
-## `12` &nbsp; 📊 &nbsp; GitHub Analytics
+**Under Review · 2026**
+
+A multi-dimensional framework for auditing AI-generated Python code across:
+
+* dependency hallucination
+* instruction adherence
+* static analysis
+* model-specific coding behaviour
+
+Benchmarked against tools including **Bandit, Ruff and Pylint**.
+
+**Keywords:** `LLM Evaluation` `Static Analysis` `Python` `Code Auditing`
+
+---
+
+# `05` 💼 Experience
+
+## Machine Learning Intern — Metabrix Lab
+
+**Jun 2025 – Sep 2025**
+
+I worked as a **Machine Learning Intern in the AI/ML team at Metabrix Lab**, contributing to a deep-learning system for **3D face reconstruction** based on a **Hierarchical Representation Network (HRN)**.
+
+Rather than working on a standalone academic notebook, the work involved understanding and improving an existing Python deep-learning codebase.
+
+### What I worked on
+
+**HRN model analysis**
+
+Studied the architecture and execution flow of the Hierarchical Representation Network used for 3D face reconstruction, including how representations moved through the training and inference pipeline.
+
+**Deep-learning debugging**
+
+Investigated model and pipeline failures, traced issues through the existing implementation and identified bottlenecks affecting model behaviour and inference stability.
+
+**Model optimisation**
+
+Worked on implementing and fine-tuning HRN components to improve reconstruction quality and make inference behaviour more stable.
+
+**Codebase maintenance**
+
+Worked within the existing ML codebase rather than rewriting the system from scratch, making targeted fixes and refactoring where required while preserving the surrounding pipeline.
+
+**Engineering workflow**
+
+Used Git-based development on Linux while maintaining reproducible changes across the machine-learning workflow.
+
+**Technical documentation**
+
+Documented implementation details and debugging findings so that future development and onboarding did not depend entirely on reverse-engineering the existing code.
+
+### What I learned
+
+The internship changed how I think about ML engineering.
+
+Training a model is only one part of the problem. In a real codebase, you also have to understand someone else's implementation, trace failures through several stages, isolate whether an issue comes from the model or the surrounding pipeline, make targeted changes without breaking unrelated components, and explain what you changed clearly enough for another engineer to continue the work.
+
+**Technologies:**
+`Python` `PyTorch` `Deep Learning` `HRN` `3D Face Reconstruction` `Git` `Linux`
+
+---
+
+# `06` 🧪 Other Builds & Experiments
+
+Not every repository is a flagship project. Some are experiments, hackathon builds, learning projects or supporting work that document how I got here.
+
+| Project                        | Description                                                                                                              |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| **LITTORA**                    | Marine digital twin exploring ocean health, biodiversity, pollution and AI-assisted environmental insights.              |
+| **SYNAPSE-2148**               | Futuristic human-AI governance interface for monitoring autonomous systems, detecting conflicts and restoring consensus. |
+| **shl-assessment-agent**       | AI-powered assessment workflow for generating and evaluating candidate assessments.                                      |
+| **CallAutopsy**                | Voice-AI failure analysis system that injects failures into STT → LLM → TTS pipelines and generates postmortems.         |
+| **EcoBudgett**                 | Extended EcoBudget build combining task-sufficient retrieval with a carbon-budgeting application.                        |
+| **tilez-mosaic-view**          | Interactive tiled/mosaic visual interface experiment.                                                                    |
+| **oaqjp-final-project-emb-ai** | Applied AI engineering final project.                                                                                    |
+| **fathers-day-site**           | Interactive personalised web experience built as a Father's Day project.                                                 |
+| **nanu**                       | Experimental application and interface build.                                                                            |
+| **Sensory**                    | Experimental AI/application project.                                                                                     |
+| **Polynous-pitch**             | Product presentation site for POLYNOUS.                                                                                  |
+| **daily-notes**                | Daily learning and coding practice journal.                                                                              |
+| **PREP-codes**                 | Programming and placement preparation repository.                                                                        |
+| **LEETCODE-PRACTICE**          | Algorithm and data-structure practice for technical interviews.                                                          |
+| **NIDS**                       | Network intrusion detection project and research implementation.                                                         |
+| **nids-16-03**                 | Experimental NIDS development repository.                                                                                |
+
+---
+
+# `07` 🛠️ Technical Stack
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,react,fastapi,git,github,linux,mysql,mongodb,aws,tensorflow,pytorch&theme=dark" />
+
+### Generative AI & Agentic Systems
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-d97706?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_%2F_GraphRAG-F72585?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA_%2F_PEFT-FF6B35?style=flat-square)
+![SSE](https://img.shields.io/badge/SSE_Streaming-6366f1?style=flat-square)
+
+### Data & Retrieval
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%2F_pgvector-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square\&logo=neo4j\&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-6366f1?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_Search-FFB627?style=flat-square)
+![BGE](https://img.shields.io/badge/BGE_Embeddings-F72585?style=flat-square)
+
+### ML / DL / Evaluation
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white)
+![UMAP](https://img.shields.io/badge/UMAP_%2F_HDBSCAN-7209B7?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM--as--Judge-FF6B35?style=flat-square)
+
+### MLOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square\&logo=mlflow\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square\&logo=railway\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)
+
+---
+
+# `08` 🧠 How I Build
+
+| Principle                                  | What it means in my work                                                                               |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Sourced over confident**                 | Meridian attaches provenance and confidence to generated findings.                                     |
+| **Deterministic where it matters**         | ReconMint keeps financial computation outside the LLM.                                                 |
+| **Evaluate before claiming**               | My NLP projects use labelled data, baselines, agreement checks and audits.                             |
+| **Monitor the model, not just the server** | GuardianOps treats silent model failure as a first-class production problem.                           |
+| **Build the surrounding system**           | APIs, databases, authentication, deployment, observability and evaluation matter as much as the model. |
+| **Document failure**                       | Failed experiments and rejected approaches are part of the engineering record.                         |
+| **Prefer measurable systems**              | I try to replace "it seems better" with a metric, experiment or audit.                                 |
+
+---
+
+# `09` 📊 GitHub
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pradhanashwarya2122&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F72585&icon_color=FF6B35&text_color=e6e6e6" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhanashwarya2122&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F72585&text_color=e6e6e6" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhanashwarya2122&hide_border=true&background=0D1117&ring=F72585&fire=FF6B35&currStreakLabel=F72585&sideNums=e6e6e6&currStreakNum=e6e6e6&sideLabels=e6e6e6&dates=8b949e" />
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=pradhanashwarya2122&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
 
@@ -394,23 +457,34 @@ Reply quality is scored by an LLM judge (`gpt-4o-mini`, cross-family from the ag
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F72585,100:7209B7&height=3&section=header" width="100%" />
+---
 
-## `13` &nbsp; 🤝 &nbsp; Let's Connect
+# `10` 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwarya-pradhan-4963a9219)
-[![Email](https://img.shields.io/badge/Email-pradhanashwarya2122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhanashwarya2122@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_7440956549-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917440956549)
-[![GitHub](https://img.shields.io/badge/GitHub-pradhanashwarya2122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradhanashwarya2122)
+<a href="https://www.linkedin.com/in/ashwarya-pradhan-4963a9219/">
+<img src="https://img.shields.io/badge/LinkedIn-Ashwarya_Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br/>
+<a href="mailto:pradhanashwarya2122@gmail.com">
+<img src="https://img.shields.io/badge/Email-pradhanashwarya2122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Open to AI/ML engineering internships, research collaborations, and hard problems in agentic systems.**
+<a href="https://github.com/pradhanashwarya2122">
+<img src="https://img.shields.io/badge/GitHub-pradhanashwarya2122-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-*If you're a recruiter: every project above has a repo, and most have a live URL. Pick any one and I'll walk you through the code and the numbers behind it.* ✨
+<br/><br/>
+
+**Open to AI/ML engineering internships, research collaborations, and difficult problems in agentic systems.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&fontSize=0&stroke=-&animation=twinkling&color=0:7209B7,50:F72585,100:FF6B35" />
+---
+
+<div align="center">
+
+*Build it. Measure it. Break it. Understand it. Ship it.*
+
+</div>
